@@ -1,4 +1,4 @@
-## Bing Wallpaper ![bingWallpaper](https://github.com/dyarthur/bing-wallpaper/actions/workflows/maven.yml/badge.svg)
+## Bing Wallpaper &nbsp; ![bingWallpaper](https://github.com/dyarthur/bing-wallpaper/actions/workflows/maven.yml/badge.svg)
 ![](https://cn.bing.com/th?id=OHR.PalacioArtes_EN-US2524377333_UHD.jpg&w=1000)Today: [Palacio de Bellas Artes, Mexico City, Mexico (© Lukas Bischoff Photograph/Shutterstock)](https://cn.bing.com/th?id=OHR.PalacioArtes_EN-US2524377333_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
