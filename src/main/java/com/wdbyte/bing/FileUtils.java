@@ -107,7 +107,7 @@ public class FileUtils {
             Files.createFile(readmePath);
         }
         //List<String> allLines = Files.readAllLines(path);
-        Files.write(readmePath, "## Bing Wallpaper".getBytes());
+        Files.write(readmePath, "## Bing Wallpaper &nbsp; ![bingWallpaper](https://github.com/dyarthur/bing-wallpaper/actions/workflows/maven.yml/badge.svg)".getBytes());
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, imgList.get(0).toLarge().getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
