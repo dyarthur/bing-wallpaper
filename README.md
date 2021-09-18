@@ -1,4 +1,4 @@
-## Bing Wallpaper
+## Bing Wallpaper ![bingWallpaper](https://github.com/dyarthur/bing-wallpaper/actions/workflows/maven.yml/badge.svg)
 ![](https://cn.bing.com/th?id=OHR.BenagilCave_EN-US2996856855_UHD.jpg&w=1000)Today: [Benagil Cave in the Algarve, Portugal (© Michael Malorny/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.BenagilCave_EN-US2996856855_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
