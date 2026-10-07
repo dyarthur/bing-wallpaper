@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg) 
+
 2026-10-06 | [Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg) 
 
 2026-10-05 | [Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg) 
