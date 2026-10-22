@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg) 
+
 2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://cn.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg) 
 
 2026-10-20 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg) 
